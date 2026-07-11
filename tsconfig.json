@@ -10,16 +10,6 @@
     ],
     "jsx": "preserve",
     "strict": true,
-    "noImplicitAny": true,
-    "noImplicitThis": true,
-    "strictNullChecks": true,
-    "strictBindCallApply": true,
-    "strictPropertyInitialization": true,
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": true,
-    "noUnusedLocals": false,
-    "useUnknownInCatchVariables": true,
-    "alwaysStrict": true,
     "isolatedModules": true,
     "skipLibCheck": true,
     "noEmit": true,
@@ -40,8 +30,6 @@
   ],
   "exclude": [
     "node_modules",
-    "build",
-    "dist",
-    "**/*.test.ts"
+    "dist"
   ]
 }

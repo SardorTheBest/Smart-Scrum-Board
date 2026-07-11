@@ -73,7 +73,7 @@
 
 **Вариант A — через git:**
 ```bash
-git clone https://github.com/ВАШ_НИК/smart-scrum-board.git
+git clone https://github.com/SardorTheBest/smart-scrum-board.git
 cd smart-scrum-board
 ```
 
